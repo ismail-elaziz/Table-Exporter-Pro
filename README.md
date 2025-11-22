@@ -5,7 +5,7 @@ A full-stack TypeScript application that exports HTML tables to Google Docs with
 ## Project Structure
 
 ```
-pfa/
+
 ├── backend/               # Node.js + Express + TypeScript backend
 │   ├── src/
 │   │   └── server.ts     # Main server file with Google Docs API integration
